@@ -51,7 +51,7 @@ with st.expander("ℹ️ Más información sobre la aplicación"):
 # Visualización de la matriz de correlación
 st.subheader("🧠 Matriz de Correlación del Dataset")
 try:
-    image = Image.open("pictures/matriz_correlacion.jpg")  
+    image = Image.open("pictures/matriz_correlacion.JPG")  
     st.image(image, caption="Matriz de correlación entre variables", use_container_width=True)
 except FileNotFoundError:
     st.warning("No se encontró la imagen de la matriz de correlación. Asegúrate de que esté en la carpeta `pictures/`.")
