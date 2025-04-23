@@ -1,0 +1,21 @@
+# Entornos virtuales
+env/
+venv/
+.env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Modelos guardados
+*.pkl
+
+# Archivos de configuración
+.DS_Store
+*.log
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
