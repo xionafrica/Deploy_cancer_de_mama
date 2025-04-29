@@ -59,7 +59,7 @@ except FileNotFoundError:
 
 # Cargar modelo y columnas
 model = joblib.load("model/model_rf.pkl")
-columnas = joblib.load("model/column_model_rf.pkl")
+columnas = joblib.load("model/feature_pipeline_rf.pkl")
 
 # Título
 st.title("Clasificación de Cáncer de Mama")
