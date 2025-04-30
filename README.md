@@ -83,7 +83,11 @@ Matriz de correlación:
 ![Matriz de Correlación](pictures/matriz_correlacion.JPG)
 
 ---
+## 🚀 Demo
 
+👉 Prueba la aplicación aquí: [Streamlit App](https://clasificacioncancerdemama.streamlit.app/)
+
+---
 ## 🙋 Acerca de Mí
 Mi nombre es **Xion Africa** y estoy en proceso de consolidarme como Data Scientist freelance, ayudando a empresas a automatizar procesos mediante inteligencia artificial.
 
