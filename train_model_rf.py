@@ -83,4 +83,4 @@ joblib.dump(model, 'model_rf.pkl')
 
 # (Opcional) Guardar nombres de columnas
 columnas = X.columns.tolist()
-joblib.dump(columnas, 'column_model_rf.pkl')
+joblib.dump(columnas, 'feature_pipeline_rf.pkl')
